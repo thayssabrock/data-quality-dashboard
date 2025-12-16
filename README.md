@@ -25,10 +25,11 @@ pip install -r requirements.txt
 streamlit run dashboard/app.py
 
 ```
-## Imagens
+## ♦ Imagens
 
 <img width="1902" height="767" alt="image" src="https://github.com/user-attachments/assets/e332eff9-0aaf-4795-9703-270bf83215fa" />
 <img width="1913" height="784" alt="image" src="https://github.com/user-attachments/assets/d0adcd9e-d57b-4f4c-a3fb-43e4f72d792d" />
 <img width="1886" height="767" alt="image" src="https://github.com/user-attachments/assets/5acad613-9fc4-4fc1-b7cd-f11de2567c2a" />
+
 
 
